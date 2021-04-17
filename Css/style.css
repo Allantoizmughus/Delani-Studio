@@ -1,8 +1,32 @@
 body{
     background-color: aquamarine;
 }
-.header{
-    background-image: url('images/backgrounds/h_img.jpg');
-    background-color: brown;
-    margin-left: 100px;
+#header{
+    background-image: url("/images/backgrounds/h_img.jpg");
+    height: 600px;
+    width: 100%;
+    background-size: 100% 600px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    }
+    #mouse{
+        margin-top: 250px;
+
+    }
+    #intro{
+        text-align: center;
+    }
+    h1{
+      margin-top: 15px;
+    }
+
+    p{
+        font-size: 12px;
+    }
+    h2{
+        text-align: center;
     }
