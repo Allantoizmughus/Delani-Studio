@@ -112,3 +112,41 @@ body{
         display: flex;
         justify-content: center;
     }
+
+    #work5{
+       background-image: url("/images/portfolio/work5.jpg");
+       height: 200px;
+       width: 200px;
+       background-size: 200px 200px;
+       margin: 10px;
+    }
+    #work6{
+       background-image: url("/images/portfolio/work6.jpg");
+       height: 200px;
+       width: 200px;
+       background-size: 200px 200px;
+       margin: 10px;
+    }
+    #work7{
+       background-image: url("/images/portfolio/work7.jpg");
+       height: 200px;
+       width: 200px;
+       background-size: 200px 200px;
+       margin: 10px;
+    }
+    #work8{
+       background-image: url("/images/portfolio/work8.jpg");
+       height: 200px;
+       width: 200px;
+       background-size: 200px 200px;
+       margin: 10px;
+    }
+    #port2{
+        text-align: center;
+        display: flex;
+        justify-content: center;   
+    }
+    .work{
+        background-color: black;
+        opacity: 0.6;
+    }
