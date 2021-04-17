@@ -150,3 +150,10 @@ body{
         background-color: black;
         opacity: 0.6;
     }
+
+    #comments{
+        background-image: url("/images/backgrounds/c_image.jpg");
+        height: 400px;
+        width: 100%;
+        background-size: 100% 400px;
+    }
