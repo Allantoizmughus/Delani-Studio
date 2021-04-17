@@ -1,3 +1,8 @@
-#header{
-    background-image: url("/assets/backgrounds/h_img.jpg");
+body{
+    background-color: aquamarine;
+}
+.header{
+    background-image: url('images/backgrounds/h_img.jpg');
+    background-color: brown;
+    margin-left: 100px;
     }
