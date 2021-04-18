@@ -99,9 +99,9 @@
         margin-right: 15px;
         margin-top: 15px;
         font-size: 55px;
+        color: white;
         display:none;
-        background-color: black;
-        opacity: 0.6;
+        
     }
     .work2{
         border: 2px solid white;
@@ -110,9 +110,9 @@
         margin-right: 15px;
         margin-top: 15px;
         font-size: 55px;
+        color: white;
         display:none;
-        background-color: black;
-        opacity: 0.6;
+       
     }
     .work3{
         border: 2px solid white;
@@ -121,9 +121,10 @@
         margin-right: 15px;
         margin-top: 15px;
         font-size: 55px;
+        color: white;
+        transition: 5s ease;
         display:none;
-        background-color: black;
-        opacity: 0.6;
+        
     }
     .work4{
         border: 2px solid white;
@@ -132,9 +133,9 @@
         margin-right: 15px;
         margin-top: 15px;
         font-size: 55px;
+        color: white;
         display:none;
-        background-color: black;
-        opacity: 0.6;
+       
     }
     .work5{
         border: 2px solid white;
@@ -143,9 +144,9 @@
         margin-right: 15px;
         margin-top: 15px;
         font-size: 55px;
+        color: black;
         display:none;
-        background-color: black;
-        opacity: 0.6;
+       
     }
     .work6{
         border: 2px solid white;
@@ -154,9 +155,9 @@
         margin-right: 15px;
         margin-top: 15px;
         font-size: 55px;
+        color: black;
         display:none;
-        background-color: black;
-        opacity: 0.6;
+       
     }
     .work7{
         border: 2px solid white;
@@ -165,9 +166,9 @@
         margin-right: 15px;
         margin-top: 15px;
         font-size: 55px;
+        color: white;
         display:none;
-        background-color: black;
-        opacity: 0.6;
+       
     }
     .work8{
         border: 2px solid white;
@@ -176,9 +177,9 @@
         margin-right: 15px;
         margin-top: 15px;
         font-size: 55px;
+        color: white;
         display:none;
-        background-color: black;
-        opacity: 0.6;
+       
     }
    
     #port1{
@@ -277,4 +278,15 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+
+    #design>p{
+        display: none;
+    }
+
+    #dev>p{
+        display: none;
+    }
+    #product>p{
+        display: none;
     }
