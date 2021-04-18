@@ -92,19 +92,95 @@
         margin: 10px;
     }
     
-    .work{
+    .work1{
         border: 2px solid white;
         height: 170px;
         width: 170px;
         margin-right: 15px;
         margin-top: 15px;
-        font-size: 50px;
-        display: none;
+        font-size: 55px;
+        display:none;
+        background-color: black;
+        opacity: 0.6;
     }
-    .work>p{
-        font-size: larger;
-        color: white;
+    .work2{
+        border: 2px solid white;
+        height: 170px;
+        width: 170px;
+        margin-right: 15px;
+        margin-top: 15px;
+        font-size: 55px;
+        display:none;
+        background-color: black;
+        opacity: 0.6;
     }
+    .work3{
+        border: 2px solid white;
+        height: 170px;
+        width: 170px;
+        margin-right: 15px;
+        margin-top: 15px;
+        font-size: 55px;
+        display:none;
+        background-color: black;
+        opacity: 0.6;
+    }
+    .work4{
+        border: 2px solid white;
+        height: 170px;
+        width: 170px;
+        margin-right: 15px;
+        margin-top: 15px;
+        font-size: 55px;
+        display:none;
+        background-color: black;
+        opacity: 0.6;
+    }
+    .work5{
+        border: 2px solid white;
+        height: 170px;
+        width: 170px;
+        margin-right: 15px;
+        margin-top: 15px;
+        font-size: 55px;
+        display:none;
+        background-color: black;
+        opacity: 0.6;
+    }
+    .work6{
+        border: 2px solid white;
+        height: 170px;
+        width: 170px;
+        margin-right: 15px;
+        margin-top: 15px;
+        font-size: 55px;
+        display:none;
+        background-color: black;
+        opacity: 0.6;
+    }
+    .work7{
+        border: 2px solid white;
+        height: 170px;
+        width: 170px;
+        margin-right: 15px;
+        margin-top: 15px;
+        font-size: 55px;
+        display:none;
+        background-color: black;
+        opacity: 0.6;
+    }
+    .work8{
+        border: 2px solid white;
+        height: 170px;
+        width: 170px;
+        margin-right: 15px;
+        margin-top: 15px;
+        font-size: 55px;
+        display:none;
+        background-color: black;
+        opacity: 0.6;
+    }
+   
     #port1{
         text-align: center;
         display: flex;
@@ -145,10 +221,7 @@
         display: flex;
         justify-content: center;   
     }
-    .work{
-        background-color: black;
-        opacity: 0.6;
-    }
+    
 
     #comments{
         background-image: url("/images/backgrounds/c_image.jpg");

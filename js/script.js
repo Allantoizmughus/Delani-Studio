@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $(".col-sm-2").hover(function(){
-        $(".work").toggle();
+    $("#work1").hover(function(){
+        $(".work1").toggle();
     });
 });
