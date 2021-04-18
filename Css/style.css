@@ -238,6 +238,7 @@
     .submission{
         display: flex;
         flex-direction: row;
+        margin-left: -40px;
     }
     .name{
         border: 1px solid white;
@@ -246,18 +247,28 @@
         color: white;
         margin: 10px;
     }
+    #name{
+        opacity: 0.1;
+    }
     .email{
         border: 1px solid white;
         height: 30px;
         width: 350px;
-        color: white;
         margin: 10px;
+    }
+    #email{
+        opacity: 0.1;
     }
     .message{
         border: 1px solid white;
         width: 650px;
         height: 200px;
-        color: white;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+    #message{
+        opacity: 0.1;
     }
     #comments>h2{
         color: white;
