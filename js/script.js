@@ -37,7 +37,7 @@ $(document).ready(function(){
         $("#product>img").toggle();
     })
 
-    $("button").click(function(){
+    $(".button").click(function(){
         alert("Dear User we have recieved your message.Thank you for reaching out to us.");
     })
 });

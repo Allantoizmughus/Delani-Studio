@@ -247,18 +247,14 @@
         color: white;
         margin: 10px;
     }
-    #name{
-        opacity: 0.1;
-    }
+
     .email{
         border: 1px solid white;
         height: 30px;
         width: 350px;
         margin: 10px;
     }
-    #email{
-        opacity: 0.1;
-    }
+
     .message{
         border: 1px solid white;
         width: 650px;
@@ -267,9 +263,7 @@
         justify-content: flex-start;
         align-items: flex-start;
     }
-    #message{
-        opacity: 0.1;
-    }
+
     #comments>h2{
         color: white;
     }
@@ -301,3 +295,40 @@
     #product>p{
         display: none;
     }
+    .requiredemail{
+        border: 1px solid white;
+        height: 30px;
+        width: 350px;
+        margin: 10px;
+        background: rgb(0, 0, 0); /* Fallback color */
+        background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    }
+    .requiredname{
+        border: 1px solid white;
+        height: 30px;
+        width: 350px;
+        color: black;
+        margin: 10px;
+        background: rgb(0, 0, 0); /* Fallback color */
+        background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    }
+    .requiredmessage{
+        border: 1px solid white;
+        width: 650px;
+        height: 200px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        color: white;
+        margin-top: -25px;
+        background: rgb(0, 0, 0); /* Fallback color */
+        background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    }
+    form>#mc_embed_signup_scroll>h2{
+        color: white;
+        margin-top: 0px;
+    }
+    .mc-field-group{
+        margin: 10px;
+    }
+    
