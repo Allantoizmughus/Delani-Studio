@@ -1,5 +1,5 @@
 #header{
-    background-image: url("/images/backgrounds/h_img.jpg");
+    background-image: url("../images/backgrounds/h_img.jpg");
     height: 600px;
     width: 100%;
     background-size: 100% 600px;
@@ -42,7 +42,7 @@
     }
 
     #services{
-        background-image: url("/images/backgrounds/s_image.jpg");
+        background-image: url("../images/backgrounds/s_image.jpg");
         height: 300px;
         width: 100%;
         background-size: 100% 300px;
@@ -63,7 +63,7 @@
         margin-bottom: 20px;
     }
     #work1{
-       background-image: url("/images/portfolio/work4.jpg");
+       background-image: url("../images/portfolio/work4.jpg");
        height: 200px;
        width: 200px;
        background-size: 200px 200px;
@@ -71,21 +71,21 @@
        margin: 10px;
     }
     #work2{
-        background-image: url("/images/portfolio/work3.jpg");
+        background-image: url("../images/portfolio/work3.jpg");
         height: 200px;
         width: 200px;
         background-size: 200px 200px;
         margin: 10px;
     }
     #work3{
-        background-image: url("/images/portfolio/work2.jpg");
+        background-image: url("../images/portfolio/work2.jpg");
         height: 200px;
         width: 200px;
         background-size: 200px 200px;
         margin: 10px;
         }
     #work4{
-        background-image: url("/images/portfolio/work1.jpg");
+        background-image: url("../images/portfolio/work1.jpg");
         height: 200px;
         width: 200px;
         background-size: 200px 200px;
@@ -190,28 +190,28 @@
     }
 
     #work5{
-       background-image: url("/images/portfolio/work5.jpg");
+       background-image: url("../images/portfolio/work5.jpg");
        height: 200px;
        width: 200px;
        background-size: 200px 200px;
        margin: 10px;
     }
     #work6{
-       background-image: url("/images/portfolio/work6.jpg");
+       background-image: url("../images/portfolio/work6.jpg");
        height: 200px;
        width: 200px;
        background-size: 200px 200px;
        margin: 10px;
     }
     #work7{
-       background-image: url("/images/portfolio/work7.jpg");
+       background-image: url("../images/portfolio/work7.jpg");
        height: 200px;
        width: 200px;
        background-size: 200px 200px;
        margin: 10px;
     }
     #work8{
-       background-image: url("/images/portfolio/work8.jpg");
+       background-image: url("../images/portfolio/work8.jpg");
        height: 200px;
        width: 200px;
        background-size: 200px 200px;
@@ -225,7 +225,7 @@
     
 
     #comments{
-        background-image: url("/images/backgrounds/c_image.jpg");
+        background-image: url("../images/backgrounds/c_image.jpg");
         height: 400px;
         width: 100%;
         background-size: 100% 400px;
